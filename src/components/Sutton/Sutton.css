@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+
+.container_sutton {
+    margin: 10px;
+    padding: 5px;
+    height: 100vh;
+    background: #888888;
+}
+
+.text_sutton {
+    margin: 40px;
+    padding: 10px;
+    font-family: 'Tiny5';
+    font-size: 30px;
+    color: rgb(46, 46, 46);
+}
+
+.answers_sutton {
+    margin: 40px;
+    padding: 10px;
+    font-family: 'Tiny5';
+    font-size: 26px;
+    color: rgb(31, 31, 31);
+}
